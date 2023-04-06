@@ -1,57 +1,17 @@
-# Project Name
+# Zero 2 Hero
 
-(short, 1-3 sentenced, description of the project)
+This repo contains a set of sample journeys about creating, building, testing and deploying Apps to Azure ☁️ using __Prompt Engineering__ 🧠 powered by GitHub Copilot 🚀.
+Prompt engineering is the practice of providing an intent to an AI model and produce the results you want to get the job done. A prompt could be a text entered in the chat, a comment or a line of code that triggers a response from an AI model. In this case the AI Model is the OpenAI Codex that powers the GitHub Copilot.
 
-## Features
+The goal is to enable anyone to start from a blank environment and jump start on the end to end process of building an App and deploying it to the Cloud (we use Azure here but the same concepts may be applied everywhere). We will leverage GitHub Copilot for much more than just programming code. GitHub Copilot will be our AI assistant to help us with the installation of the development framework, create the App code, build a container image, create Azure resources, deploy the code, create CI/CD workflows, build infrastructure as code, and much more. Limitless possibilities at your fingertips (we can also use our [voice](https://githubnext.com/projects/copilot-voice/)).
 
-This project framework provides the following features:
-
-* Feature 1
-* Feature 2
-* ...
-
-## Getting Started
+Using an IDE such as Visual Studio Code with GitHub Copilot empowers the developer to focus on getting the job done in a really Integrated Developer Environment. Starting from zero taking no assumptions has real advantagens. You could be an experience programmer or just getting started and I'm sure you will rock with these Prompt Engineering samples.
 
 ### Prerequisites
 
-(ideally very short, if any)
+- [Visual Studio Code Insiders](https://code.visualstudio.com/insiders/)
+- [GitHub Copilot Nightly](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-nightly)
+- [GitHub Copilot Labs](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-labs)
+- [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/)
 
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
-
-### Quickstart
-(Add steps to get up and running quickly)
-
-1. git clone [repository clone url]
-2. cd [repository name]
-3. ...
-
-
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
-
-## Resources
-
-(Any additional resources or related projects)
-
-- Link to supporting information
-- Link to similar sample
-- ...
+# Work in progress - stay tuned
