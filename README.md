@@ -8,7 +8,7 @@ The goal here is to enable everyone to start from a blank environment and jump s
 
 Starting from zero taking no assumptions has real advantagens. You could be an experience programmer or just getting started and I'm sure you will leverage the following journeys:
 
-| [![Setup Environment](media/setup.PNG)](journeys/setup.PDF) ✅ | [![name](media/dotnet-to-aca.PNG)](journeys/dotnet-to-aca.PDF) ✅ | [![nodejs to Azure App Service](media/nodejs-to-appservice.PNG)](journeys/nodejs-to-appservice.PDF) 💭 | [![Java to Azure Red Hat OpenShift](media/java-to-aro.PNG)](journeys/java-to-aro.PDF) 💭 | [![Python to AKS](media/python-to-aks.PNG)](journeys/python-to-aks.PDF) 💭 | 
+| [![Setup Environment](media/setup.PNG)](journeys/setup.PDF) ✅ | [![name](media/dotnet-to-aca.PNG)](journeys/dotnet-to-aca.PDF) ✅ | [![nodejs to Azure App Service](media/nodejs-to-appservice.PNG)](journeys/nodejs-to-appservice.PDF) 💤 | [![Java to Azure Red Hat OpenShift](media/java-to-aro.PNG)](journeys/java-to-aro.PDF) 💤 | [![Python to AKS](media/python-to-aks.PNG)](journeys/python-to-aks.PDF) 💤 | 
 | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | 
 | ![Setup Environment](media/setup.PNG) | ![.NET tp Azure Container Apps](media/dotnet-to-aca.PNG) | ![nodejs to Azure App Service](media/nodejs-to-appservice.PNG) | ![Java to Azure Red Hat OpenShift](media/java-to-aro.PNG) | ![Python to AKS](media/python-to-aks.PNG) |
 
