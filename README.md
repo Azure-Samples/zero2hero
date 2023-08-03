@@ -1,4 +1,4 @@
-# Zero 2 Hero
+# Zero 2 Hero with GitHub Copilot
 
 This repo contains a set of sample journeys to explore and demonstrate what we can do with GitHub Copilot, the new Chat functionality and the power of the triad: #GitHub + #VSCode + #Azure 🚀
 
@@ -8,14 +8,20 @@ The goal here is to enable everyone to start from a blank environment and jump s
 
 Starting from zero taking no assumptions has real advantagens. You could be an experience programmer or just getting started and I'm sure you will leverage the following journeys:
 
-| [![Setup Environment](media/setup.PNG)](journeys/setup.PDF) ✅ | [![.NET to Azure Container Apps](media/dotnet-to-aca.PNG)](journeys/dotnet-to-aca.PDF) ✅ | [![nodejs to Azure App Service](media/nodejs-to-appservice.PNG)](journeys/nodejs-to-appservice.PDF) 💤 | [![Java to Azure Red Hat OpenShift](media/java-to-aro.PNG)](journeys/java-to-aro.PDF) 💤 | [![Python to AKS](media/python-to-aks.PNG)](journeys/python-to-aks.PDF) 💤 | 
-| --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- | 
-| [![React to Azure Static Web Apps](media/react-to-swa.PNG)](journeys/react-to-swa.PDF) 💤 | [![Generate and Load Sample Data](media/cosmosdb.PNG)](journeys/cosmosdb.PDF) 💤 | [![Azure Developer CLI](media/azd.PNG)](journeys/azd.PDF) 💤 | [![Azure CLI and IaC](media/IaC.PNG)](journeys/IaC.PDF) 💤 | [![Docker and Kubernetes](media/containers.PNG)](journeys/containers.PDF) 💤 |
-| [![Git Actions](media/actions.PNG)](journeys/actions.PDF) 💤 | [![.NET Chat Bot with OpenAI](media/chat.PNG)](journeys/chat.PDF) 💤 | [![Jupyter Notebook](media/notebooks.PNG)](journeys/notebooks.PDF) 💤 | [![Azure Monitor](media/monitor.PNG)](journeys/monitor.PDF) 💤 | [![API Management](media/apim.PNG)](journeys/apim.PDF) 💤 |
-| [![Azure Data API Builder](media/data-api-builder.PNG)](journeys/data-api-builder.PDF) 💤 | [![.NET Intelligent-apps](media/dotnet-intelligent-apps.PNG)](journeys/dotnet-intelligent-apps.PDF) 💤 | [![.NET App Modernization](media/dotnet-app-modernization.PNG)](journeys/dotnet-app-modernization.PDF) 💤 | [![Java App Modernization](media/java-app-modernization.PNG)](journeys/java-app-modernization.PDF) 💤 | [![Fixing Security Issues](media/security.PNG)](journeys/security.PDF) 💤 |
-
+| [![Setup Environment](media/setup.PNG)](journeys/zero2hero-0.setup.PDF) ✅ | [![.NET to Azure Container Apps](media/dotnet-to-aca.PNG)](journeys/zero2hero-dotnet-to-aca.PDF) ✅ | [![nodejs to Azure App Service](media/nodejs-to-appservice.PNG)](journeys/zero2hero-nodejs-to-appservice.PDF) 💤 | [![Python to AKS](media/python-to-aks.PNG)](journeys/zero2hero-python-to-aks.PDF) 💤 | 
+| --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+| [![Java to Azure Red Hat OpenShift](media/java-to-aro.PNG)](journeys/zero2hero-java-to-aro.PDF) 💤 | [![React to Azure Static Web Apps](media/react-to-swa.PNG)](journeys/zero2hero-react-to-swa.PDF) 💤 | [![Generate and Load Sample Data](media/cosmosdb.PNG)](journeys/zero2hero-cosmosdb.PDF) 💤 | [![Azure Developer CLI](media/azd.PNG)](journeys/zero2hero-azd.PDF) 💤 |
+| [![Azure CLI and IaC](media/IaC.PNG)](journeys/zero2hero-IaC.PDF) 💤 | [![Docker and Kubernetes](media/containers.PNG)](journeys/zero2hero-containers.PDF) 💤 | [![Git Actions](media/actions.PNG)](journeys/zero2hero-actions.PDF) 💤 | [![.NET Chat Bot with OpenAI](media/chat.PNG)](journeys/zero2hero-chat.PDF) 💤 |
+| [![Jupyter Notebook](media/notebooks.PNG)](journeys/zero2hero-notebooks.PDF) 💤 | [![Azure Monitor](media/monitor.PNG)](journeys/zero2hero-monitor.PDF) 💤 | [![API Management](media/apim.PNG)](journeys/zero2hero-apim.PDF) 💤 | [![Azure Data API Builder](media/data-api-builder.PNG)](journeys/zero2hero-data-api-builder.PDF) 💤 |
+| [![.NET Intelligent-apps](media/dotnet-intelligent-apps.PNG)](journeys/zero2hero-dotnet-intelligent-apps.PDF) 💤 | [![.NET App Modernization](media/dotnet-app-modernization.PNG)](journeys/zero2hero-dotnet-app-modernization.PDF) 💤 | [![Java App Modernization](media/java-app-modernization.PNG)](journeys/zero2hero-java-app-modernization.PDF) 💤 | [![Fixing Security Issues](media/security.PNG)](journeys/zero2hero-security.PDF) 💤 |
 
 ### Quick start
 
-To get started open the [environment setup journey](journeys/setup.PDF) and then pick any of the above journeys.
+To get started just click in one of the above journeys and follow the instructions.
+Please note that GitHub Copilot has a non-deterministic behaviour so the reponses that you will get might be different from the ones that we got when building this.
+
+### Resources
+
+- [About GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
+- [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
 
