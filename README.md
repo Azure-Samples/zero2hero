@@ -1,6 +1,6 @@
 # Zero 2 Hero with GitHub Copilot
 
-This repo contains a set of sample journeys to explore and demonstrate what we can do with GitHub Copilot, the new Chat functionality and the power of the triad: #GitHub + #VSCode + #Azure 🚀
+This repo contains a set of sample journeys to explore and demonstrate what we can do with GitHub Copilot, the new Chat functionality and the power of the triad: #GitHub + #VisualStudio + #Azure 🚀
 
 ![Zero 2 Hero with GitHub Copilot](media/logo.png)
 
