@@ -1,8 +1,8 @@
 
 # ZERO 2 HERO
 
-![image](../../media/banners/setup.png)
+![image](../../media/banners/setup.PNG)
 
 ## Setup Environment
 
-![image](../../media/banners/wip.png)
+![image](../../media/banners/wip.PNG)
