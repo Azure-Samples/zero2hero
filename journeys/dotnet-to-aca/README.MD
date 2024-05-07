@@ -5,7 +5,7 @@
 ## Contents
 - [Learning objectives](#learning-objectives)
 - [Success criteria](#success-criteria)
-- [1. Configure your environment](#1-configure-your-environment)
+- [1. Setup your environment](#1-setup-your-environment)
 - [2. Create the App](#2-create-the-app)
 - [3. Add the User entity](#3-add-the-user-entity)
 - [4. Add the new Service](#4-add-the-new-service)
@@ -36,7 +36,7 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 
 > [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
 > 
-> steps to create a .NET blazor server app called HeroBlazorApp in the terminal and include pre-requirements
+> `steps to create a .NET blazor server app called HeroBlazorApp in the terminal and include pre-requirements`
 </details>
 <br/>  
 
