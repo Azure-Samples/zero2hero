@@ -58,8 +58,6 @@ The Codespace is already configured with the .NET SDK, Azure CLI and the VS Code
 <details>
 <summary>💡 GitHub Copilot tip</summary>
 
-> [!TIP]
->
 > [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
 > 
 > `steps to create a .NET blazor server app called HeroBlazorApp in the terminal and include pre-requirements`
@@ -73,41 +71,53 @@ The Codespace is already configured with the .NET SDK, Azure CLI and the VS Code
 
 🟦 Create and open a new file named `User.cs` under the folder `Data`.  
 
-> [!TIP]
-> 
+<details>
+<summary>💡 GitHub Copilot tip</summary>
+
 > [<img src="../../media/copilot/inline-chat.svg" alt="You can press Ctrl+I on your keyboard to bring up Copilot inline chat" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_inline-chat)
 > 
 > `create a User class in the HeroBlazorApp.Data namespace with id, name, username, email, phone and website properties and json mapping`
+</details>
+<br/>  
 
 ## 5. Change the razor page to add the new Service
 
 🟦 Open the `Program.cs` file.  
 🟦 Place the cursor before the `builder.Build` instruction.  
 
-> [!TIP]
-> 
+<details>
+<summary>💡 GitHub Copilot tip</summary>
+
 > [<img src="../../media/copilot/inline-chat.svg" alt="You can press Ctrl+I on your keyboard to bring up Copilot inline chat" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_inline-chat)
 > 
 > `add builder for user service singleton and http client`
+</details>
+<br/>  
 
 🟦 Add the `AddSingleton` and `AddHttpClient` generated code.  
 🟦 Open the `Pages/FetchData.razor` file and select all the content.  
 
-> [!TIP]
->
+<details>
+<summary>💡 GitHub Copilot tip</summary>
+
 > [<img src="../../media/copilot/inline-chat.svg" alt="You can press Ctrl+I on your keyboard to bring up Copilot inline chat" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_inline-chat)
 > 
 > `change this razor page with the router /fetchdata that display user information from the user service`
+</details>
+<br/>  
 
 🟦 Accept the generated content.  
 
 ## 6. Test it locally
 
-> [!TIP]
->
+<details>
+<summary>💡 GitHub Copilot tip</summary>
+
 > [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
 > 
 > `run my app`
+</details>
+<br/>  
 
 🟦 Save all the files.  
 🟦 Run `dotnet run` on the terminal.  
@@ -115,22 +125,28 @@ The Codespace is already configured with the .NET SDK, Azure CLI and the VS Code
 
 ## 7. Add documentation
 
-> [!TIP]
->
+<details>
+<summary>💡 GitHub Copilot tip</summary>
+
 > [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
 > 
 > `create a readme file in markdown format for this project`
+</details>
+<br/>  
 
 🟦 Click on the `...` and choose `insert into New file`.  
 🟦 Save the file as `READNE.md`.  
 
 ## 8. Deploy to Azure
 
-> [!TIP]
->
+<details>
+<summary>💡 GitHub Copilot tip</summary>
+
 > [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
 > 
 > `use the az containerapp up command to deploy my app named heroblazorapp with external ingress on an environment named heroenv, a resource group named zero2hero-blazor located in west europe with the source parameter as "."`
+</details>
+<br/>  
 
 🟦 Click on the `...` and choose `insert into Terminal`.  
 🟦 Run the `az` command and wait until it finishes.  
