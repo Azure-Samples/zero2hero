@@ -1,5 +1,7 @@
 # Zero 2 Hero with GitHub Copilot
 
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure-Samples/zero2hero/tree/main)
+
 This repo contains a set of sample journeys to explore and demonstrate what we can do with GitHub Copilot, the Chat functionality and the power of the triad: #GitHub + #VisualStudio + #Azure 🚀
 
 ![Zero 2 Hero with GitHub Copilot](media/logo.png)

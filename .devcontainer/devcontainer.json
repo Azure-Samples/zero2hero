@@ -1,0 +1,50 @@
+{
+	"name": "Zero2Hero Dev Container",
+	"image": "mcr.microsoft.com/vscode/devcontainers/dotnet:8.0-jammy",
+	"hostRequirements": {
+	  "cpus": 4
+	},
+	"features": {
+		"ghcr.io/devcontainers/features/azure-cli:1": {
+			"installBicep": true,
+			"version": "latest"
+		},
+		"ghcr.io/devcontainers/features/python:1": {
+			"installTools": true,
+			"version": "os-provided"
+		},
+		"ghcr.io/stuartleeks/dev-container-features/azure-cli-persistence:0": {},
+		"ghcr.io/azure/azure-dev/azd:0": {
+			"version": "stable"
+		},
+		"ghcr.io/devcontainers/features/git:1": {
+			"version": "latest"
+		},
+		"ghcr.io/devcontainers/features/java:1": {
+			"version": "none",
+			"installMaven": "true",
+			"installGradle": "false"
+		}        
+	},
+	"waitFor": "onCreateCommand",
+	"updateContentCommand": "",
+	"postCreateCommand": "",
+	"customizations": {
+	  "codespaces": {
+		"openFiles": []
+	  },
+	  "vscode": {
+		"extensions": [
+		  "ms-vscode.azure-account",
+		  "ms-azuretools.azure-dev",
+		  "ms-toolsai.jupyter",
+          "ms-dotnettools.csdevkit",
+		  "ms-python.python",
+          "vscjava.vscode-java-pack",
+		  "github.copilot",
+		  "github.copilot-chat",
+          "gitHub.vscode-pull-request-github"
+		]
+	  }
+	}
+}
