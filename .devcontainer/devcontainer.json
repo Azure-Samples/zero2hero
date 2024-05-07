@@ -11,7 +11,8 @@
 		},
 		"ghcr.io/devcontainers/features/python:1": {
 			"installTools": true,
-			"version": "os-provided"
+			"version": "os-provided",
+            "installJupyterlab": false
 		},
 		"ghcr.io/stuartleeks/dev-container-features/azure-cli-persistence:0": {},
 		"ghcr.io/azure/azure-dev/azd:0": {
@@ -21,9 +22,13 @@
 			"version": "latest"
 		},
 		"ghcr.io/devcontainers/features/java:1": {
-			"version": "none",
+			"version": "latest",
 			"installMaven": "true",
 			"installGradle": "false"
+		},
+		"ghcr.io/devcontainers/features/node:1": {
+			"version": "lts",
+			"nvmVersion": "latest"
 		}        
 	},
 	"waitFor": "onCreateCommand",
@@ -31,13 +36,12 @@
 	"postCreateCommand": "",
 	"customizations": {
 	  "codespaces": {
-		"openFiles": []
+		"openFiles": [ "README.md" ]
 	  },
 	  "vscode": {
 		"extensions": [
 		  "ms-vscode.azure-account",
 		  "ms-azuretools.azure-dev",
-		  "ms-toolsai.jupyter",
           "ms-dotnettools.csdevkit",
 		  "ms-python.python",
           "vscjava.vscode-java-pack",
