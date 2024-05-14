@@ -64,6 +64,7 @@ Now we want to add a visualization chart to our notebook to display the sentimen
 <br/>  
 
 🟦 Add a new code cell into notebook.
+
 🟦 On the new code cell, copy the code suggested.
 
 ## 4. Add a new visualization chart type and transform the value labels
