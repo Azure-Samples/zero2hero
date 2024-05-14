@@ -57,14 +57,13 @@ Now we want to add a visualization chart to our notebook to display the sentimen
 <details>
 <summary>💡 GitHub Copilot tip</summary>
 
-> [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
-> 
+> [<img src="../../media/copilot/inline-chat.svg" alt="You can press Ctrl+I on your keyboard to bring up Copilot inline chat" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_inline-chat)
 > `@workspace plot the sentiment of the previous sentiment analysis into a chart`
 </details>
 <br/>  
 
 🟦 Add a new code cell into notebook.
-🟦 Copy the code suggested.
+🟦 On the new code cell, copy the code suggested.
 
 ## 4. Add a new visualization chart type and transform the value labels
 
