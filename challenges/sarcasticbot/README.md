@@ -13,7 +13,11 @@
 
 ## Learning objectives
 
-Here's a simple challenge to kickstart your journey with Azure OpenAI and GitHub Copilot. The following steps are merely a guide. Unleash your creativity to stand out and construct something genuinely innovative. Now, let's get cracking, my future Willy Wonka of coding!
+👉🏼 Here's a simple challenge to kickstart your GitHub Copilot learning journey on coding an App that uses Azure OpenAI.
+
+🤯 GitHub Copilot uses OpenAI models and the OpenAI models are developed with GitHub Copilot. Surely, your brain must be performing gymnastics at this point!
+
+👉🏼 The following steps are merely a guide. Unleash your creativity to stand out and construct something genuinely innovative. Now, let's get cracking, my future Willy Wonka of coding!
 
 ## Success criteria
 
@@ -40,7 +44,7 @@ https://zero2hero.blob.core.windows.net/data/openai.txt
 </details>
 <br/>  
 
-🟦 Change the system message to instruct the LLM with the sarcastic behaviour. Add your own funny instuctions, play with different languages like Portuguese, 
+🟦 Let's tweak this system message and serve up some sarcasm, shall we? But remember, keep it light-hearted and jolly! Oh, and feel free to toss in a bit of Portuguese too, just to spice things up a bit! Here’s the deal: The machine needs to learn sarcasm not from "The Grinch," but from the good-natured ribbing of a sitcom. And, on a final note, don’t be surprised if your LLM suddenly develops an insatiable craving for feijoada. Just remember - it's all in good fun! 
 
 🟦 Write a simple UI to receive the prompt and display the bot message.
 
