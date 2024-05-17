@@ -10,7 +10,7 @@
 
 ## Learning objectives
 
-This is a very simple challenge for you to get started with GitHub Copilot and GitHub Copilot Chat extensions. You will create a simple webpage to display a mini game of your choice, like "Rock, Paper, Scissors", "Memory Game", "Matopeli (Snake)", or any other simple game you like.
+This is a very simple challenge for you to get started with GitHub Copilot and GitHub Copilot Chat extensions. You will create a simple webpage to display a traditional mini game of your choice, like "Rock, Paper, Scissors", "Memory Game", "Matopeli (Snake)", or any other simple game you like.
 
 👉🏼 Get to know GitHub Copilot and GitHub Copilot chat extensions
 👉🏼 Use GitHub Copilot to generate your code (eg. Javascript and HTML)
@@ -103,9 +103,9 @@ In the created Azure Static Web App, follow the instructions to deploy the app f
 
 ### ✨ Let's review GitHub Copilot
 
-- Was it able to recognize the Chuck Norris API?  
-- Was the generated HTML page working out of the box?  
-- Did it generate documentation for the javascript code?
+- Was it able to give you suggestions about traditional mini games?  
+- Was the generated web page working out of the box?  
+- Did it generate documentation for the code?
 - How else did it help you?
 
 ### 🗑️ Clean up Azure resources
