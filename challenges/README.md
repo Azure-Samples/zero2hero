@@ -12,4 +12,5 @@ Follow this [guide](../journeys/setup/) to configure your environment and login 
 | -------- | -------- | 
 | ![image](../media/chuck.jpg)   | [Chuck Norries Jokes](./chucknorris/)   | 
 | ![image](../media/sarcastic.png)   | [Sarcastic Bot](./sarcasticbot/)   | 
+| ![image](../media/games.png)   | [Mini Games](./minigames/)   | 
 
