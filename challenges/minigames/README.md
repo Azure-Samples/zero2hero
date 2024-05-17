@@ -13,7 +13,9 @@
 This is a very simple challenge for you to get started with GitHub Copilot and GitHub Copilot Chat extensions. You will create a simple webpage to display a traditional mini game of your choice, like "Rock, Paper, Scissors", "Memory Game", "Matopeli (Snake)", or any other simple game you like.
 
 👉🏼 Get to know GitHub Copilot and GitHub Copilot chat extensions
+
 👉🏼 Use GitHub Copilot to generate your code (eg. Javascript and HTML)
+
 👉🏼 Build and customize the webpage for the game 
 
 ## Success criteria
