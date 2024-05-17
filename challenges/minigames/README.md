@@ -41,7 +41,7 @@ Choose a simple game you want to create. You can choose from the following examp
 <details>
 <summary>💡 GitHub Copilot tip</summary>
 
-> Did you know that GitHub Copilot can provide a few tradicional mini game options?
+> Did you know that GitHub Copilot can provide a few traditional mini game options?
 
 [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
 > 
@@ -53,7 +53,7 @@ Choose a simple game you want to create. You can choose from the following examp
 
 🟦 Create an web page with the required UI to support the actions you will implement. It's up to you to choose your javascript library and a CSS framework.
 
-🟦 As a simple example, display the game options. When the thee game ends, display the final result.
+🟦 As a simple example, display the game options. When the the game ends, display the final result.
 
 <details>
 <summary>💡 GitHub Copilot tip</summary>
