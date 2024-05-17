@@ -31,6 +31,8 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 
 ## 2. Create the App
 
+We want to ask GitHub Copilot Chat about the steps we need to do to create a Blazor serverside .NET application. The name of the app should be HeroBlazorApp. Ensure that the prerequirements are included.
+
 <details>
 <summary>💡 GitHub Copilot tip</summary>
 
@@ -47,6 +49,8 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 
 🟦 Create and open a new file named `User.cs` under the folder `Data`.  
 
+Now we want to create a User entity, preferably as a User class in the HeroBlazorApp.Data namespace. A User has the following properties: id, name, username, email, phone number and website. We also want to do a JSON mapping. You can use GitHub Copilot Chat or inline completion.
+
 <details>
 <summary>💡 GitHub Copilot tip</summary>
 
@@ -61,6 +65,8 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 🟦 Open the `Program.cs` file.  
 🟦 Place the cursor before the `builder.Build` instruction.  
 
+Next we want to add a builder for a User service singleton and a http client. Feel free to use GitHub Copilot in whatever way you are most comfortable with to keep you in your coding flow.
+
 <details>
 <summary>💡 GitHub Copilot tip</summary>
 
@@ -72,6 +78,8 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 
 🟦 Add the `AddSingleton` and `AddHttpClient` generated code.  
 🟦 Open the `Pages/FetchData.razor` file and select all the content.  
+
+And then we want to edit our Razor page to display the user informations that we have fetched from our user service.
 
 <details>
 <summary>💡 GitHub Copilot tip</summary>
@@ -85,6 +93,8 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 🟦 Accept the generated content.  
 
 ## 5. Test it locally
+
+Finally we want to test our code. Ask GitHub Copilot Chat how to run the application locally.
 
 <details>
 <summary>💡 GitHub Copilot tip</summary>
@@ -101,6 +111,8 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 
 ## 6. Add documentation
 
+No one likes writing documentation, but everyone needs documentation. Luckily GitHub Copilot can also help you with that. Ask GitHub Copilot Chat to support you writing a `README.md` for our project.
+
 <details>
 <summary>💡 GitHub Copilot tip</summary>
 
@@ -114,6 +126,8 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 🟦 Save the file as `READNE.md`.  
 
 ## 7. Deploy to Azure
+
+Everything is up, running and documented? Great, now let's deploy it to Azure Container Apps. For this simple task we can use the Azure CLI. Use GitHub Copilot Chat to ensure all needed parameters are set and we have access to our App by creating an external ingress in the Azure region of your choice.
 
 <details>
 <summary>💡 GitHub Copilot tip</summary>
@@ -142,3 +156,5 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 ### 🗑️ Clean up Azure resources
 
 When you're finished with the lab, you should remove all your deployed resources from Azure to avoid extra charges and keep your Azure subscription uncluttered.
+
+#### 📈 You had any problems with this journey, an idea how to improve it or an idea for a new journey? We are looking forward for your feedback as an issue or pull request. ✨
