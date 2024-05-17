@@ -1,5 +1,6 @@
-# Github Copilot challenge - Mini Games
+# ZERO 2 HERO Challenge - Mini Games
 
+![image](../../media/games.png)
 
 ## Contents
 - [Learning objectives](#learning-objectives)
