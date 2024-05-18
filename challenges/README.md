@@ -12,6 +12,6 @@ Ready to push your limits, crack your brains, and channel your inner geek? Are y
 
 |  |  | 
 | -------- | -------- | 
-| [<img src="../media/chuck.jpg" width=250/>](challenges/chucknorris/)   | [Chuck Norries Jokes](challenges/chucknorris/)   | 
-| [<img src="../media/sarcastic.png" width=250/>](challenges/sarcasticbot/)   | [Sarcastic Bot](challenges/sarcasticbot/)   | 
-| [<img src="../media/games.png" width=250/>](challenges/minigames/)   | [Mini Games](challenges/minigames/)   | 
+| [<img src="../media/chuck.jpg" width=250/>](chucknorris/)   | [Chuck Norries Jokes](chucknorris/)   | 
+| [<img src="../media/sarcastic.png" width=250/>](sarcasticbot/)   | [Sarcastic Bot](sarcasticbot/)   | 
+| [<img src="../media/games.png" width=250/>](minigames/)   | [Mini Games](minigames/)   | 
