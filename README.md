@@ -45,3 +45,11 @@ To get started just click in one of the above journeys or challenges and follow 
 - [Tips & Tricks](TIPS.md)
 - [About GitHub Copilot Chat](https://docs.github.com/en/copilot/github-copilot-chat/about-github-copilot-chat)
 - [How to use GitHub Copilot: Prompts, tips, and use cases](https://github.blog/2023-06-20-how-to-write-better-prompts-for-github-copilot/)
+
+### 🌐 WW GBB initiative
+
+![GBB](images/gbb.png)
+
+### Disclaimer
+> [!IMPORTANT]
+> This software is provided for demonstration purposes only. It is not intended to be relied upon for any purpose. The creators of this software make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability or availability with respect to the software or the information, products, services, or related graphics contained in the software for any purpose. Any reliance you place on such information is therefore strictly at your own risk.
