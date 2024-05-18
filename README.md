@@ -9,7 +9,11 @@ This repo contains a set of sample journeys and challenges to demonstrate and ex
 
 ![Zero 2 Hero with GitHub Copilot](media/logo.png)
 
-The goal here is to enable everyone to start from a blank environment and jump start on building Apps and deploying it to the Cloud (we use Azure here but the concepts are universal). We will leverage GitHub Copilot for much more than just programming code. GitHub Copilot will be our AI assistant to help us with the installation of the development frameworks, create the App code, build container images, create Azure resources, deploy code, create CI/CD workflows, build infrastructure as code, and much more. Limitless possibilities at your fingertips (we can even use our [voice](https://githubnext.com/projects/copilot-voice/)).
+👉🏼 The goal here is to enable everyone to start from a blank environment and jump start on building Apps and deploying it to the Cloud (we use Azure here but the concepts are universal).
+
+✨ We will leverage GitHub Copilot for much more than just programming code. GitHub Copilot will be our AI assistant to help us with the installation of the development frameworks, create the App code, build container images, create Azure resources, deploy code, create CI/CD workflows, build infrastructure as code, and much more.
+
+🤯 Limitless possibilities at your fingertips, and you can even use your [voice](https://githubnext.com/projects/copilot-voice/)!
 
 ## Journeys
 
