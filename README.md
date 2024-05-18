@@ -48,7 +48,7 @@ To get started just click in one of the above journeys or challenges and follow 
 
 ### 🌐 WW GBB initiative
 
-![GBB](images/gbb.png)
+![GBB](media/gbb.png)
 
 ### Disclaimer
 > [!IMPORTANT]
