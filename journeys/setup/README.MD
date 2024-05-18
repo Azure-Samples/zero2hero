@@ -53,3 +53,5 @@ The Codespace is already configured with the .NET SDK, Azure CLI and the VS Code
 > [<img src="../../media/copilot/chat-view.svg" alt="You can access the Chat view via the Activity Bar or by pressing Ctrl+Alt+I" width="250"/>](https://code.visualstudio.com/docs/copilot/copilot-chat#_chat-view)
 > 
 > `Hello`
+
+Check the [Tips & Tricks](../../TIPS.md) to get full advantage of GitHub Copilot.
