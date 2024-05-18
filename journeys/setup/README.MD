@@ -27,14 +27,13 @@ As a member of an organization, you can request access to GitHub Copilot Busines
 - Install the [GitHub Copilot extension](https://code.visualstudio.com/docs/copilot/setup#_step-2-install-the-github-copilot-extension).
 - Install the [GitHub Copilot Chat extension](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot-chat).
 - Install or update to the latest [Azure CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli).
-- Install or update to the latest [.NET 8 SDK](https://dotnet.microsoft.com/en-us/download).
 
 ### 2.2 Option 2️⃣: GitHub Codespace
 Just click on the following button to create a new GitHub Codespace:
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/Azure-Samples/zero2hero/tree/main)
 
-The Codespace is already configured with the .NET SDK, Azure CLI and the VS Code extensions.
+The Codespace is already configured with the VS Code extensions, Azure CLI and multiple SDKs.
 
 > [!NOTE]
 >
@@ -43,7 +42,7 @@ The Codespace is already configured with the .NET SDK, Azure CLI and the VS Code
 
 ## 3. Login to GitHub and Azure
 
-- [Sign in to GitHub](https://code.visualstudio.com/docs/copilot/setup#_step-3-sign-in-to-github).
+- [Sign in to GitHub from VS Code](https://code.visualstudio.com/docs/copilot/setup#_step-3-sign-in-to-github).
 - Open a terminal and [Sign in to Azure with Azure CLI](https://learn.microsoft.com/en-us/cli/azure/authenticate-azure-cli-interactively).
 
 ## 4. Test
