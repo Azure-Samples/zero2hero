@@ -80,7 +80,7 @@ The next step is that we want to ensure that the code is working as expected. Us
 </details>
 <br/>  
 
-🟦 Create a new `test_app.py` file and copy paste the test in it.
+🟦 Create a new `test_app.py` file and copy paste the test in it.  
 🟦 Refine the tests until they all succeed, maybe you also need to adjust the code in your `app.py` file.
 
 ## 5. Add documentation
