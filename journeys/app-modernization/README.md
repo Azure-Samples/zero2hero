@@ -1,6 +1,6 @@
 # ZERO 2 HERO - Application Modernization
 
-![image](../../media/banners/wip.PNG)
+![image](../../media/banners/app-modernization.jpeg)
 
 ## Contents
 - [Learning objectives](#learning-objectives)
@@ -9,7 +9,7 @@
 - [2. Understand the code](#2-understand-the-code)
 - [3. Convert the code](#3-convert-the-code)
 - [4. Test the code](#4-test-the-code)
-- [5. Add documentation](#6-add-documentation)
+- [5. Add documentation](#5-add-documentation)
 - [6. (optional Convert the code into other languages](#6-optional-convert-the-code-into-other-languages)
 - [Conclusion](#conclusion)
 
@@ -30,7 +30,7 @@ Follow this [guide](../setup/) to configure your environment and login to GitHub
 
 ## 2. Understand the code
 
-Open [app.aspx](./app.aspx) and review the code. If you are not familiar with ASP.NET, don't worry. We will use GitHub Copilot to help us understand the code. Open GitHub Copilot Chat, select all the code to ensure GitHub Copilot uses the entire files as context and use GitHub Copilot Chat to explain the code to you.
+Open [app.asp](./app.asp) and review the code. If you are not familiar with ASP.NET, don't worry. We will use GitHub Copilot to help us understand the code. Open GitHub Copilot Chat, select all the code to ensure GitHub Copilot uses the entire files as context and use GitHub Copilot Chat to explain the code to you.
 
 <details>
 <summary>💡 GitHub Copilot tip</summary>
