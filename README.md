@@ -19,8 +19,12 @@ This repo contains a set of sample journeys and challenges to demonstrate and ex
 
 Starting from scratch, without making any assumptions, packs quite a punch of advantages. Whether you're a seasoned programmer or just hitting the launchpad, I'm confident you'll reap plenty of benefits from the journeys ahead.
 
-| [![Setup Environment](media/setup.PNG)](journeys/setup/)  | [![.NET to Azure Container Apps](media/dotnet-to-aca.PNG)](journeys/dotnet-to-aca/)  | [![nodejs to Azure App Service](media/nodejs-to-appservice.PNG)](journeys/nodejs-to-appservice/)  | [![Python to AKS](media/python-to-aks.PNG)](journeys/python-to-aks/)  | 
+
+| [![Setup Environment](media/setup.PNG)](journeys/setup/)  | [![.NET to Azure Container Apps](media/dotnet-to-aca.PNG)](journeys/dotnet-to-aca/)  | [![nodejs to Azure App Service](media/nodejs-to-appservice.PNG)](journeys/nodejs-to-appservice/)  | [![Python to AKS](media/python-to-aks.PNG)](journeys/python-to-aks/) |
 | --------------------------------------- | --------------------------------------- | --------------------------------------- | --------------------------------------- |
+
+| [![Legacy App Modernization](media/banners/app-modernization.png)](journeys/app-modernization/) |
+| --------------------------------------- |
 
 ## Challenges
 

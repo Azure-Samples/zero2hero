@@ -1,8 +1,9 @@
-# ZERO 2 HERO - Application Modernization
+# ZERO 2 HERO - Legacy App Modernization
 
-![image](../../media/banners/app-modernization.jpeg)
+![image](../../media/banners/app-modernization.png)
 
 ## Contents
+
 - [Learning objectives](#learning-objectives)
 - [Success criteria](#success-criteria)
 - [1. Setup your environment](#1-setup-your-environment)
@@ -10,7 +11,7 @@
 - [3. Convert the code](#3-convert-the-code)
 - [4. Test the code](#4-test-the-code)
 - [5. Add documentation](#5-add-documentation)
-- [6. (optional Convert the code into other languages](#6-optional-convert-the-code-into-other-languages)
+- [6. (optional) Convert the code into other languages](#6-optional-convert-the-code-into-other-languages)
 - [Conclusion](#conclusion)
 
 ## Learning objectives
